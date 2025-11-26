@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 1, 
+        "titulo": "Bolsa ecológica Flexin Verde",
+        "imagen": "bolsas/bolsa1.jpg",
+        "info": "Bolsa reforzada, material ecológico, super resistente."
+    },
+    { 
+        "id": 2, 
+        "titulo": "Bolsa ecológica Flexin Natural",
+        "imagen": "bolsas/bolsa2.jpg",
+        "info": "Tela natural, reutilizable más de 100 veces."
+    },
+    { 
+        "id": 3, 
+        "titulo": "Bolsa ecológica Flexin Celeste",
+        "imagen": "bolsas/bolsa3.jpg",
+        "info": "Ligera, ecológica y resistente."
+    },
+    { 
+        "id": 4, 
+        "titulo": "Bolsa ecológica Flexin Negra",
+        "imagen": "bolsas/bolsa4.jpg",
+        "info": "Elegante, reforzada e ideal para compras."
+    }
+]
